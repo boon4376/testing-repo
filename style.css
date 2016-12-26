@@ -2,4 +2,8 @@
   background-color:#eee;
   font-family:sans-serif;
   font-size:18px;
+  margin:auto;
+  max-width:600px;
+  padding:50px;
+  text-align:center;
 }
